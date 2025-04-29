@@ -1,9 +1,15 @@
 # 🦠 COVID-19 Data Analysis using Power BI
+![image](https://github.com/user-attachments/assets/fec0ab98-6e3e-4f04-9a5d-b13883dda5c2)
+![image](https://github.com/user-attachments/assets/598b9e2a-fe32-4205-b092-442522ae16cf)
+![image](https://github.com/user-attachments/assets/a3575407-2150-492e-a60f-9485e298da4b)
+
+
 ## 📌 Objective
-        The goal of this project is to analyze global COVID-19 data using Power BI and create an interactive dashboard that helps users understand trends in confirmed cases, deaths, and recoveries over time and across countries.
+The goal of this project is to analyze global COVID-19 data using Power BI and create an interactive dashboard that helps users understand trends in confirmed cases, deaths, and recoveries 
+over time and across countries.
 ## 📂 Data Source
-      - **Dataset:** [COVID-19 Dataset from Kaggle](https://www.kaggle.com/)
-      - The dataset includes daily COVID-19 statistics (confirmed, deaths, recoveries) for multiple countries worldwide.
+ Dataset: [COVID-19 Dataset from Kaggle](https://www.kaggle.com/)
+ The dataset includes daily COVID-19 statistics (confirmed, deaths, recoveries) for multiple countries worldwide.
 ## 🧹 Data Preparation
       - Cleaned null and missing values.
       - Formatted date columns and standardized country names.
