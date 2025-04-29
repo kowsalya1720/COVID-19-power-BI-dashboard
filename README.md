@@ -1,14 +1,14 @@
-### 🦠 COVID-19 Data Analysis using Power BI
-# 📌 Objective
+# 🦠 COVID-19 Data Analysis using Power BI
+## 📌 Objective
         The goal of this project is to analyze global COVID-19 data using Power BI and create an interactive dashboard that helps users understand trends in confirmed cases, deaths, and recoveries over time and across countries.
-# 📂 Data Source
+## 📂 Data Source
       - **Dataset:** [COVID-19 Dataset from Kaggle](https://www.kaggle.com/)
       - The dataset includes daily COVID-19 statistics (confirmed, deaths, recoveries) for multiple countries worldwide.
-# 🧹 Data Preparation
+## 🧹 Data Preparation
       - Cleaned null and missing values.
       - Formatted date columns and standardized country names.
       - Aggregated data for time-series analysis (daily and weekly trends).
-# 📊 Power BI Dashboard Design
+## 📊 Power BI Dashboard Design
 
 🔹 **Page 1: Global Overview**
       - KPIs displaying total confirmed cases, deaths, and recoveries globally.
@@ -26,5 +26,5 @@
       - Number of recoveries
       - Number of deaths
       - Recovery and mortality percentages
-# ✅ Conclusion
+## ✅ Conclusion
        This Power BI dashboard provides an interactive and insightful view of the COVID-19 pandemic at both global and country levels. It helps users track trends, compare country-level data, and draw meaningful conclusions based on visual analytics. Ideal for public health monitoring, academic studies, and data storytelling.
